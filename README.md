@@ -1,2 +1,2 @@
-# holer-client
+# Holer Client
 Holer client
