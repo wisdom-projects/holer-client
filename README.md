@@ -3,10 +3,10 @@
 Holer客户端软件支持以下两种使用方式，根据实际需求，任选其中一种方式即可：
 
 [**方式一：**](#1-使用公开的holer映射或者开通holer服务) <br/>
-使用**公开的holer映射**或者**开通holer服务**，通过**holer客户端软件**经**holer服务器**实现公网访问，详见[第1节](#1-使用公开的holer映射或者开通holer服务)。<br/>
+使用**公开的holer映射**或者**开通holer服务**，通过**holer客户端软件**经**holer服务器**实现公网访问，[详见第1节](#1-使用公开的holer映射或者开通holer服务)。<br/>
 
-[**方式二：**](#2-使用holer服务端软件搭建holer服务)<br/>
-使用**holer服务端软件**搭建holer服务，通过**holer客户端软件**经**自己服务器**实现公网访问，详见[第2节](#2-使用holer服务端软件搭建holer服务)。<br/>
+[**方式二：**](https://github.com/wisdom-projects/holer-server) <br/>
+使用**holer服务端软件**搭建holer服务，通过**holer客户端软件**经**自己服务器**实现公网访问，[**详见文档**](https://github.com/wisdom-projects/holer-server)。<br/>
 
 Holer客户端软件有Java版本详见[1.1节](#11-使用java版本的holer客户端实现步骤)和Go版本详见[1.2节](#12-使用go版本的holer客户端实现步骤)，根据偏好，任选其中一种版本使用即可。
 
@@ -14,7 +14,7 @@ Holer软件下载地址[**详见文档**](https://github.com/wisdom-projects/hol
 
 ## 1. 使用公开的holer映射或者开通holer服务
 
-[**方式一:**](#2-holer使用) 使用**公开的holer映射**或者**开通holer服务**，通过holer客户端软件经**holer服务器**实现公网访问。<br/>
+**方式一:**使用**公开的holer映射**或者**开通holer服务**，通过holer客户端软件经**holer服务器**实现公网访问。<br/>
 
 **公开的holer映射**详情如下：
 
@@ -153,34 +153,29 @@ Enter holer server host: holer.org
 ------------------------------------------
 ```
 
-## 2. 使用holer服务端软件搭建holer服务
+# 2. 支持与帮助
 
-**方式二:**使用**holer服务端软件**搭建holer服务，通过holer客户端软件经**自己服务器**实现公网访问。<br/>
-搭建holer服务[**详见文档**](https://github.com/wisdom-projects/holer-server)。
-
-# 3. 支持与帮助
-
-## 3.1 Holer使用示例
+## 2.1 Holer使用示例
 获得更多的holer使用示例，请参考[**官方文档**](http://blog.wdom.net)。
 
-## 3.2 问题帮助
+## 2.2 问题帮助
 使用中遇到问题可以查看holer日志信息来排查问题的具体原因。
 
-### 3.2.1 Holer客户端日志
-#### 3.2.1.1 Java版本的holer客户端
+### 2.2.1 Holer客户端日志
+#### 2.2.1.1 Java版本的holer客户端
 查看日志文件：
 `holer-client/logs/holer-client.log`
 
-#### 3.2.1.2 Go版本的holer客户端
+#### 2.2.1.2 Go版本的holer客户端
 **Linux系统** <br/>
 查看可执行程序所在目录下的日志文件`logs/holer-client.log`或者`nohup.out`文件。
 
 **Windows系统** <br/>
 查看可执行程序所在目录下的日志文件`logs/holer-client.log`
 
-### 3.2.2 Holer服务端日志
+### 2.2.2 Holer服务端日志
 查看日志文件：
 `holer-server/logs/holer-server.log`
 
-## 3.3 申请holer服务
+## 2.3 申请holer服务
 用户可以使用上述公开的holer映射详见[第1节](#1-使用公开的holer映射或者开通holer服务)，也可以申请**holer服务**，holer服务[**详见文档**](http://blog.wdom.net/article/23)。
