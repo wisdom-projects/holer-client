@@ -178,4 +178,4 @@ Enter holer server host: holer.org
 `holer-server/logs/holer-server.log`
 
 ## 2.3 申请holer服务
-用户可以使用上述公开的holer映射，[**详见第1节**](#1-使用公开的holer映射或者开通holer服务)，也可以申请**holer服务**，holer服务[**详见文档**](http://blog.wdom.net/article/23)。
+用户可以使用上述公开的holer映射，[**详见第1节**](#1-使用公开的holer映射或者开通holer服务)，也可以申请**holer服务**，开通holer服务[**详见文档**](http://blog.wdom.net/article/23)。
