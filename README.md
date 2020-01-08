@@ -2,10 +2,12 @@
 
 Holer客户端软件支持以下两种使用方式，根据实际需求，任选其中一种方式即可，holer软件下载，[**详见文档**](https://github.com/wisdom-projects/holer/releases)。
 
-[**方式一：**](#1-使用公开的holer映射或者开通holer服务) <br/>
-使用**公开的holer映射**或者**开通holer服务**，通过**holer客户端软件**经**holer服务器**实现公网访问，[**详见第1节**](#1-使用公开的holer映射或者开通holer服务)。<br/>
+[**方式一：**](#1-使用公开的holer映射或者开通holer服务)
 
-[**方式二：**](https://github.com/wisdom-projects/holer-server) <br/>
+使用 **公开的holer映射** 或者 **开通holer服务** ，通过**holer客户端软件**经**holer服务器**实现公网访问，[**详见第1节**](#1-使用公开的holer映射或者开通holer服务)。<br/>
+
+[**方式二：**](https://github.com/wisdom-projects/holer-server)
+
 使用**holer服务端软件**搭建holer服务，通过**holer客户端软件**经**自己服务器**实现公网访问，[**详见文档**](https://github.com/wisdom-projects/holer-server)。<br/>
 
 Holer客户端软件有Java版本[**详见1.1节**](#11-使用java版本的holer客户端实现步骤)和Go版本[**详见1.2节**](#12-使用go版本的holer客户端实现步骤)，根据偏好，任选其中一种版本使用即可。
