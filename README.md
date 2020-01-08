@@ -1,6 +1,6 @@
 # ![Holer Client](http://blog.wdom.net/upload/2019/11/v3sonj7kuogp1orspp1ek7t4jt.png)
 
-Holer客户端软件支持以下两种使用方式，根据实际需求，任选其中一种方式即可，holer软件下载地址[**详见文档**](https://github.com/wisdom-projects/holer/releases)。
+Holer客户端软件支持以下两种使用方式，根据实际需求，任选其中一种方式即可，holer软件下载，[**详见文档**](https://github.com/wisdom-projects/holer/releases)。
 
 [**方式一：**](#1-使用公开的holer映射或者开通holer服务) <br/>
 使用**公开的holer映射**或者**开通holer服务**，通过**holer客户端软件**经**holer服务器**实现公网访问，[详见第1节](#1-使用公开的holer映射或者开通holer服务)。<br/>
