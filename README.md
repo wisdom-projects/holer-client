@@ -8,7 +8,7 @@ Holer客户端软件支持以下两种使用方式，根据实际需求，任选
 [**方式二：**](https://github.com/wisdom-projects/holer-server) <br/>
 使用**holer服务端软件**搭建holer服务，通过**holer客户端软件**经**自己服务器**实现公网访问，[**详见文档**](https://github.com/wisdom-projects/holer-server)。<br/>
 
-Holer客户端软件有Java版本，[**详见1.1节**](#11-使用java版本的holer客户端实现步骤)和Go版本，[**详见1.2节**](#12-使用go版本的holer客户端实现步骤)，根据偏好，任选其中一种版本使用即可。
+Holer客户端软件有Java版本[**详见1.1节**](#11-使用java版本的holer客户端实现步骤)和Go版本[**详见1.2节**](#12-使用go版本的holer客户端实现步骤)，根据偏好，任选其中一种版本使用即可。
 
 ## 1. 使用公开的holer映射或者开通holer服务
 
@@ -29,7 +29,7 @@ HOLER_CLIENT-27DD1389DF1D4DBC|N/A|holer.org:65535|127.0.0.1:3306|数据库
 
 ### 1.1 使用Java版本的holer客户端实现步骤
 
-Java版本的holer客户端软件（[源代码](https://github.com/wisdom-projects/holer-client/tree/master/Java)，[软件包](https://github.com/wisdom-projects/holer-client/releases)）是由Java语言实现，支持跨平台。<br/>
+Java版本的holer客户端软件（[源代码](https://github.com/wisdom-projects/holer-client/tree/master/Java)）是由Java语言实现，支持跨平台。
 
 #### 1.1.1 安装 Java
 安装Java 1.7或者更高版本，执行命令 `java -version` 检查Java是否可用。
@@ -92,7 +92,7 @@ Enter holer server host: holer.org
 ```
 
 ### 1.2 使用Go版本的holer客户端实现步骤
-Go版本的holer客户端软件（[源代码](https://github.com/wisdom-projects/holer-client/tree/master/Go)，[软件包](https://github.com/wisdom-projects/holer-client/releases)）是由GO语言实现，支持多种操作系统和硬件架构。<br/>
+Go版本的holer客户端软件（[源代码](https://github.com/wisdom-projects/holer-client/tree/master/Go)）是由GO语言实现，支持多种操作系统和硬件架构。
 
 #### 1.2.1 安装Web服务端
 
